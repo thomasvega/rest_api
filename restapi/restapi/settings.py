@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'apitest.apps.ApitestConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
